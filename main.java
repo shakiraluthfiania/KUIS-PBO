@@ -42,7 +42,7 @@ public class main {
         System.out.print("Input Nama : ");
             nama = data.nextLine();
         System.out.println("-- Penilaian --\n");
-        System.out.println(" Nilai yang Valid berada pada 1 - 100");
+        System.out.println("Nilai yang Valid berada pada 1 - 100");
             System.out.print("Nilai Programming Knowledge : ");
             nilai1 = data.nextInt();
             System.out.print("Nilai Clean Coding : ");
